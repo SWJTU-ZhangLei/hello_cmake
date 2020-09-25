@@ -1,0 +1,8 @@
+#ifndef _STEP1_CONFIG_H_
+#define _STEP1_CONFIG_H_
+// the configured options and settings for step1
+#define Step1_VERSION_MAJOR @Step1_VERSION_MAJOR@
+#define Step1_VERSION_MINOR @Step1_VERSION_MINOR@
+#define Step1_VERSION_PATCH @Step1_VERSION_PATCH@
+
+#endif //_STEP1_CONFIG_H_

@@ -1,0 +1,8 @@
+#ifndef _STEP3_CONFIG_H_
+#define _STEP3_CONFIG_H_
+// the configured options and settings for step3
+#define Step3_VERSION_MAJOR @Step3_VERSION_MAJOR@
+#define Step3_VERSION_MINOR @Step3_VERSION_MINOR@
+#define Step3_VERSION_PATCH @Step3_VERSION_PATCH@
+#cmakedefine USE_MYMATH
+#endif //_STEP3_CONFIG_H_

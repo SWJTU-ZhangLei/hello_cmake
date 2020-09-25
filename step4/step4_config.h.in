@@ -1,0 +1,8 @@
+#ifndef _STEP4_CONFIG_H_
+#define _STEP4_CONFIG_H_
+// the configured options and settings for step4
+#define Step4_VERSION_MAJOR @Step4_VERSION_MAJOR@
+#define Step4_VERSION_MINOR @Step4_VERSION_MINOR@
+#define Step4_VERSION_PATCH @Step4_VERSION_PATCH@
+#cmakedefine USE_MYMATH
+#endif //_STEP4_CONFIG_H_
